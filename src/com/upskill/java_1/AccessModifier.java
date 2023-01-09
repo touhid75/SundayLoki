@@ -11,3 +11,6 @@ public class AccessModifier {
 	String address = "Heritage Tower";     // default - classes in same package can access
 	
 }
+
+//git test
+int a = 5;
