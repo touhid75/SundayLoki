@@ -18,3 +18,5 @@ public class Assignment1_5 {
 	}
 
 }
+// get test
+   int a = 7
